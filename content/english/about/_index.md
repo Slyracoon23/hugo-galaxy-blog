@@ -1,7 +1,7 @@
 ---
 title: "Hi,I’m Alexender Xanidiver Specilized In Blog Writing And Colecting"
 # author image
-image: "images/about.png"
+image: "images/author-large.jpg"
 # meta description
 description: "this is meta description"
 # save as draft
