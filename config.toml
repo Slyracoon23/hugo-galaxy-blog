@@ -149,6 +149,8 @@ contact_form_action = "#" # contact form works with https://formspree.io
 google_analitycs_id = "" # your id
 # search
 search = false
+# image
+image = "images/linkin_profile.png"
 
 # Preloader
 [params.preloader]
