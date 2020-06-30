@@ -1,4 +1,4 @@
 ./themes/galaxy/exampleSite
-./resources/*
-./public/*
+./resources/
+./public/
 
