@@ -19,19 +19,19 @@
     </div>
     {{ end }}
   </div>
-</div>
-
-<div class="row">
-  <div class="col-12">
-    <h2 class="h1 mb-4">Some Skills Which I Owns</h2>
-
-    {{ range .Params.skill }}
-    <div class="skill-item">
-      <h3>{{ .name }}</h3>
-      <p>{{ .content | markdownify }}</p>
-    </div>
-    {{ end }}
+  
+  <div class="row">
+    <div class="col-12">
+      <h2 class="h1 mb-4">Some Skills Which I Owns</h2>
+      
+      {{ range .Params.skill }}
+      <div class="skill-item">
+        <h3>{{ .name }}</h3>
+        <p>{{ .content | markdownify }}</p>
+      </div>
+      {{ end }}
   </div>
+</div>
 </div>
 
 
