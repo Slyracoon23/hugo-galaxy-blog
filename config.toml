@@ -1,5 +1,5 @@
 baseURL = ""
-disableLanguages = ["french"]
+disableLanguages = true
 disqusShortname = ""
 paginate = "3"
 summaryLength = "10"
@@ -106,6 +106,7 @@ image = "images/linkin_profile.png"
 logo = "images/logo.png"
 mobile = "+211234565523"
 search = false
+disableLanguageNav = true
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
