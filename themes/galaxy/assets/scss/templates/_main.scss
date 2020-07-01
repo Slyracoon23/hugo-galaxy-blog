@@ -114,11 +114,23 @@
   }
 }
 
-.post-title {
-  color: $text-color-dark;
 
-  &:hover {
-    color: $primary-color;
+.post-title {
+  position: relative;
+  padding-left: 20px !important;
+  color: $text-color-dark;
+  display: block;
+
+  &::before {
+    position: absolute;
+    content: "";
+    height: 10px;
+    width: 10px;
+    background-color: #07D300;
+    border-radius: 50%;
+    left: 0;
+    top: 11px;
+    transform: translateY(-50%);
   }
 }
 
