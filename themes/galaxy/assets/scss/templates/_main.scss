@@ -114,8 +114,15 @@
   }
 }
 
-
 .post-title {
+  color: $text-color-dark;
+
+  &:hover {
+    color: $primary-color;
+  }
+}
+
+.post-title_about {
   position: relative;
   padding-left: 20px !important;
   color: $text-color-dark;
@@ -131,6 +138,22 @@
     left: 0;
     top: 11px;
     transform: translateY(-50%);
+  }
+}
+
+.skill-item{
+  padding: 20px;
+  background-color: $dark;
+  display: flex;
+  margin-bottom: 20px;
+  align-items: center;
+  h3,p{
+    margin-bottom: 0;
+  }
+  p{
+    border-left: 1px solid $border-color;
+    padding-left: 20px;
+    margin-left: 20px;
   }
 }
 

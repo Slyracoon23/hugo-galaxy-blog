@@ -3,282 +3,282 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://demo.themefisher.com/galaxy-hugo/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://demo.themefisher.com/galaxy-hugo/fr/categories/"
+                href="/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://demo.themefisher.com/galaxy-hugo/categories/"
+                href="/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://demo.themefisher.com/galaxy-hugo/post/elements/</loc>
+    <loc>/post/elements/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://demo.themefisher.com/galaxy-hugo/fr/post/elements/"
+                href="/fr/post/elements/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://demo.themefisher.com/galaxy-hugo/post/elements/"
+                href="/post/elements/"
                 />
   </url>
   
   <url>
-    <loc>http://demo.themefisher.com/galaxy-hugo/categories/elements/</loc>
+    <loc>/categories/elements/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://demo.themefisher.com/galaxy-hugo/fr/categories/elements/"
+                href="/fr/categories/elements/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://demo.themefisher.com/galaxy-hugo/categories/elements/"
+                href="/categories/elements/"
                 />
   </url>
   
   <url>
-    <loc>http://demo.themefisher.com/galaxy-hugo/</loc>
+    <loc>/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://demo.themefisher.com/galaxy-hugo/fr/"
+                href="/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://demo.themefisher.com/galaxy-hugo/"
+                href="/"
                 />
   </url>
   
   <url>
-    <loc>http://demo.themefisher.com/galaxy-hugo/post/featured-post-1/</loc>
+    <loc>/post/featured-post-1/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://demo.themefisher.com/galaxy-hugo/fr/post/featured-post-1/"
+                href="/fr/post/featured-post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://demo.themefisher.com/galaxy-hugo/post/featured-post-1/"
+                href="/post/featured-post-1/"
                 />
   </url>
   
   <url>
-    <loc>http://demo.themefisher.com/galaxy-hugo/post/featured-post-2/</loc>
+    <loc>/post/featured-post-2/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://demo.themefisher.com/galaxy-hugo/fr/post/featured-post-2/"
+                href="/fr/post/featured-post-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://demo.themefisher.com/galaxy-hugo/post/featured-post-2/"
+                href="/post/featured-post-2/"
                 />
   </url>
   
   <url>
-    <loc>http://demo.themefisher.com/galaxy-hugo/post/featured-post-3/</loc>
+    <loc>/post/featured-post-3/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://demo.themefisher.com/galaxy-hugo/fr/post/featured-post-3/"
+                href="/fr/post/featured-post-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://demo.themefisher.com/galaxy-hugo/post/featured-post-3/"
+                href="/post/featured-post-3/"
                 />
   </url>
   
   <url>
-    <loc>http://demo.themefisher.com/galaxy-hugo/post/post-1/</loc>
+    <loc>/post/post-1/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://demo.themefisher.com/galaxy-hugo/fr/post/post-1/"
+                href="/fr/post/post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://demo.themefisher.com/galaxy-hugo/post/post-1/"
+                href="/post/post-1/"
                 />
   </url>
   
   <url>
-    <loc>http://demo.themefisher.com/galaxy-hugo/post/post-2/</loc>
+    <loc>/post/post-2/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://demo.themefisher.com/galaxy-hugo/fr/post/post-2/"
+                href="/fr/post/post-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://demo.themefisher.com/galaxy-hugo/post/post-2/"
+                href="/post/post-2/"
                 />
   </url>
   
   <url>
-    <loc>http://demo.themefisher.com/galaxy-hugo/post/post-3/</loc>
+    <loc>/post/post-3/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://demo.themefisher.com/galaxy-hugo/fr/post/post-3/"
+                href="/fr/post/post-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://demo.themefisher.com/galaxy-hugo/post/post-3/"
+                href="/post/post-3/"
                 />
   </url>
   
   <url>
-    <loc>http://demo.themefisher.com/galaxy-hugo/categories/photography/</loc>
+    <loc>/categories/photography/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://demo.themefisher.com/galaxy-hugo/fr/categories/photography/"
+                href="/fr/categories/photography/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://demo.themefisher.com/galaxy-hugo/categories/photography/"
+                href="/categories/photography/"
                 />
   </url>
   
   <url>
-    <loc>http://demo.themefisher.com/galaxy-hugo/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://demo.themefisher.com/galaxy-hugo/fr/post/"
+                href="/fr/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://demo.themefisher.com/galaxy-hugo/post/"
+                href="/post/"
                 />
   </url>
   
   <url>
-    <loc>http://demo.themefisher.com/galaxy-hugo/categories/technology/</loc>
+    <loc>/categories/technology/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://demo.themefisher.com/galaxy-hugo/fr/categories/technology/"
+                href="/fr/categories/technology/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://demo.themefisher.com/galaxy-hugo/categories/technology/"
+                href="/categories/technology/"
                 />
   </url>
   
   <url>
-    <loc>http://demo.themefisher.com/galaxy-hugo/categories/videography/</loc>
+    <loc>/categories/videography/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://demo.themefisher.com/galaxy-hugo/fr/categories/videography/"
+                href="/fr/categories/videography/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://demo.themefisher.com/galaxy-hugo/categories/videography/"
+                href="/categories/videography/"
                 />
   </url>
   
   <url>
-    <loc>http://demo.themefisher.com/galaxy-hugo/about/</loc>
+    <loc>/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://demo.themefisher.com/galaxy-hugo/fr/about/"
+                href="/fr/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://demo.themefisher.com/galaxy-hugo/about/"
+                href="/about/"
                 />
   </url>
   
   <url>
-    <loc>http://demo.themefisher.com/galaxy-hugo/contact/</loc>
+    <loc>/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://demo.themefisher.com/galaxy-hugo/fr/contact/"
+                href="/fr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://demo.themefisher.com/galaxy-hugo/contact/"
+                href="/contact/"
                 />
   </url>
   
   <url>
-    <loc>http://demo.themefisher.com/galaxy-hugo/privacy-policy/</loc>
+    <loc>/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://demo.themefisher.com/galaxy-hugo/fr/privacy-policy/"
+                href="/fr/privacy-policy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://demo.themefisher.com/galaxy-hugo/privacy-policy/"
+                href="/privacy-policy/"
                 />
   </url>
   
   <url>
-    <loc>http://demo.themefisher.com/galaxy-hugo/search/</loc>
+    <loc>/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://demo.themefisher.com/galaxy-hugo/fr/search/"
+                href="/fr/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://demo.themefisher.com/galaxy-hugo/search/"
+                href="/search/"
                 />
   </url>
   
   <url>
-    <loc>http://demo.themefisher.com/galaxy-hugo/tags/</loc>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://demo.themefisher.com/galaxy-hugo/fr/tags/"
+                href="/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://demo.themefisher.com/galaxy-hugo/tags/"
+                href="/tags/"
                 />
   </url>
   
