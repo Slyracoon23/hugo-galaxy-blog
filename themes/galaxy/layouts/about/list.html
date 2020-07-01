@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<div class="pr-lg-5 pr-4 py-4">
+<div class="container">
   {{ if .Params.Image }}
   <img class="img-fluid w-100 mb-4" src="{{ .Params.image | absURL }}" alt="{{ .Site.Params.author }}">
   {{ end }}
