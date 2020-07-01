@@ -1,34 +1,115 @@
-######################## default configuration ####################
-baseURL = "http://demo.themefisher.com/galaxy-hugo/"
-title = "Galaxy | Hugo Personal Blog template"
-theme = "galaxy"
-# post pagination
+baseURL = ""
+disableLanguages = []
+disqusShortname = ""
 paginate = "3"
-# post excerpt
 summaryLength = "10"
-# disqus short name
-disqusShortname = "" # get your shortname form here : https://disqus.com
-# disable language
-disableLanguages = [] # desable language from here
-
-
-############################# output ##############################
-[outputs]
-home = ["HTML", "RSS", "JSON"]
-
-# unsafe html
+theme = "galaxy"
+title = "Galaxy | Hugo Personal Blog template"
+[Languages.en]
+contentDir = "content/english"
+copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+footer_menu_1 = "Inspirations"
+footer_menu_2 = "Templates"
+footer_menu_3 = "Resources"
+footer_menu_4 = "Company"
+home = "Home"
+languageCode = "en-us"
+languageName = "English"
+weight = 1
+[Languages.fr]
+contentDir = "content/french"
+copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+footer_menu_1 = "Inspirations"
+footer_menu_2 = "Templates"
+footer_menu_3 = "Resources"
+footer_menu_4 = "Company"
+home = "Accueil"
+languageCode = "fr-fr"
+languageName = "French"
+weight = 2
 [markup.goldmark.renderer]
 unsafe = true
-
-############################# Plugins ##############################
-
-# CSS Plugins
+[[menu.footer_1]]
+URL = "privacy-policy"
+name = "Privacy Policy"
+weight = 1
+[[menu.footer_1]]
+URL = "about"
+name = "Terms Conditions"
+weight = 2
+[[menu.footer_1]]
+URL = "contact"
+name = "Contact"
+weight = 3
+[[menu.footer_2]]
+URL = "privacy-policy"
+name = "Privacy Policy"
+weight = 1
+[[menu.footer_2]]
+URL = "about"
+name = "Terms Conditions"
+weight = 2
+[[menu.footer_2]]
+URL = "contact"
+name = "Contact"
+weight = 3
+[[menu.footer_3]]
+URL = "privacy-policy"
+name = "Privacy Policy"
+weight = 1
+[[menu.footer_3]]
+URL = "about"
+name = "Terms Conditions"
+weight = 2
+[[menu.footer_3]]
+URL = "contact"
+name = "Contact"
+weight = 3
+[[menu.footer_4]]
+URL = "privacy-policy"
+name = "Privacy Policy"
+weight = 1
+[[menu.footer_4]]
+URL = "about"
+name = "Terms Conditions"
+weight = 2
+[[menu.footer_4]]
+URL = "contact"
+name = "Contact"
+weight = 3
+[[menu.main]]
+URL = "/"
+name = "home"
+weight = 1
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 2
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 3
+[[menu.main]]
+URL = "privacy-policy"
+name = "Privacy Policy"
+weight = 4
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+[params]
+address = "9567 Turner Trace Apt. BC C3G8A4"
+author = "Themefisher"
+contact_form_action = "#"
+description = "This is meta description"
+email = "info@bexer.com"
+google_analitycs_id = ""
+image = "images/linkin_profile.png"
+logo = "images/logo.png"
+mobile = "+211234565523"
+search = false
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
-
-# JS Plugins
 [[params.plugins.js]]
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
@@ -39,187 +120,30 @@ link = "plugins/search/fuse.min.js"
 link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
-
-
-############################## navigation ###############################
-
-# main menu
-[[menu.main]]
-name = "home"
-URL = "/"
-weight = 1
-
-[[menu.main]]
-name = "About"
-URL = "about"
-weight = 2
-  
-[[menu.main]]
-name = "Contact"
-URL = "contact"
-weight = 3
-  
-[[menu.main]]
-name = "Privacy Policy"
-URL = "privacy-policy"
-weight = 4
-
-
-# footer menu 1
-[[menu.footer_1]]
-name = "Privacy Policy"
-URL = "privacy-policy"
-weight = 1
-
-[[menu.footer_1]]
-name = "Terms Conditions"
-URL = "about"
-weight = 2
-  
-[[menu.footer_1]]
-name = "Contact"
-URL = "contact"
-weight = 3
-
-
-# footer menu 2
-[[menu.footer_2]]
-name = "Privacy Policy"
-URL = "privacy-policy"
-weight = 1
-
-[[menu.footer_2]]
-name = "Terms Conditions"
-URL = "about"
-weight = 2
-  
-[[menu.footer_2]]
-name = "Contact"
-URL = "contact"
-weight = 3
-
-
-# footer menu 3
-[[menu.footer_3]]
-name = "Privacy Policy"
-URL = "privacy-policy"
-weight = 1
-
-[[menu.footer_3]]
-name = "Terms Conditions"
-URL = "about"
-weight = 2
-  
-[[menu.footer_3]]
-name = "Contact"
-URL = "contact"
-weight = 3
-
-
-# footer menu 4
-[[menu.footer_4]]
-name = "Privacy Policy"
-URL = "privacy-policy"
-weight = 1
-
-[[menu.footer_4]]
-name = "Terms Conditions"
-URL = "about"
-weight = 2
-  
-[[menu.footer_4]]
-name = "Contact"
-URL = "contact"
-weight = 3
-
-
-#################### default parameters ################################
-[params]
-logo = "images/logo.png"
-# Meta data
-description = "This is meta description"
-author = "Themefisher"
-# contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@bexer.com"
-# contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
-# Google Analitycs
-google_analitycs_id = "" # your id
-# search
-search = false
-# image
-image = "images/linkin_profile.png"
-
-# Preloader
 [params.preloader]
 enable = true
-preloader = "" # use jpg, png, svg or gif format.
-
-
-# Subscription
+preloader = ""
 [params.subscription]
 enable = true
-# mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
-
-  
-############################# social site ########################
+mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
+mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 [[params.social]]
+icon = "ti-facebook"
+link = "#"
 title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
-
 [[params.social]]
+icon = "ti-twitter-alt"
+link = "#"
 title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
-
 [[params.social]]
+icon = "ti-instagram"
+link = "#"
 title = "instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
-
 [[params.social]]
+icon = "ti-github"
+link = "#"
 title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
-
 [[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+icon = "ti-linkedin"
 link = "#"
-
-
-################################### English language #####################################
-[Languages.en]
-languageName = "English"
-languageCode = "en-us"
-contentDir = "content/english"
-weight = 1
-home = "Home"
-# footer menus title
-footer_menu_1 = "Inspirations"
-footer_menu_2 = "Templates"
-footer_menu_3 = "Resources"
-footer_menu_4 = "Company"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
-
-
-################################### French language #####################################
-[Languages.fr]
-languageName = "French"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
-# footer menus title
-footer_menu_1 = "Inspirations"
-footer_menu_2 = "Templates"
-footer_menu_3 = "Resources"
-footer_menu_4 = "Company"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+title = "linkedin"
